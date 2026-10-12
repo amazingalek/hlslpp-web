@@ -1,3 +1,8 @@
+> [!WARNING]
+> **This is amazingalek/hlslpp-web, a fork, not [HLSL++](https://github.com/redorav/hlslpp).** It fixes HLSL++'s
+> WebAssembly SIMD backend, for [recomp-web](https://github.com/amazingalek/recomp-web), and everything in it past
+> upstream's commits was written by AI (Claude). It is not made, endorsed or supported by HLSL++'s author.
+
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![AppVeyor](https://ci.appveyor.com/api/projects/status/18dgjfa958f4xqkm/branch/master?svg=true)](https://ci.appveyor.com/project/redorav/hlslpp)
 
